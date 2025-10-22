@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan Istiqlal Qalbi Adiba</h1>
-<h3 align="center">Backend Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Developer | Tech Enthusiast | Problem Solver</h3>
 
 ---
 
@@ -12,14 +12,6 @@
   <a target="_blank" href="https://jordanistiqlal.github.io/portofolio.old/assets/data/CV_Jordan%20Istiqlal.pdf"><img src="https://img.shields.io/badge/CV-085b7f?style=for-the-badge&logo=files&logoColor=white"/></a>
   <a target="_blank" href="https://jordanistiqlal.github.io/portofolio.old/assets/data/Resume_Jordan%20Istiqlal.pdf"><img src="https://img.shields.io/badge/Resume-085b7f?style=for-the-badge&logo=files&logoColor=white"/></a>
 </p>
-
----
-
-### 👨‍💻 About Me  
-- 🚀 Backend Developer with **1+ years of experience** building and maintaining web apps in the **manufacturing industry**.  
-- 🧑‍🤝‍🧑 Experienced in **leading teams**, **client collaboration**, and delivering **scalable solutions**.  
-- 🎯 Passionate about **system design, performance optimization**, and **problem-solving**.  
-- 🌱 Currently pursuing **M.Sc. in Informatics @ ITS**.  
 
 ---
 
@@ -45,13 +37,15 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🏭 [**Manufacture & Quality Management System**]() → Optimized production reporting efficiency.  
-- 📰 [**Binosaurus - Annual Report Similarity**](https://github.com/Jordan-18/Magang-Binocular-2021) → NLP-based local news similarity checker.  
-- 🏹 [**Arfest**](https://github.com/Jordan-18/frontend.arfest) → Archery scoring & event management system.  
-- 📚 [**Reckomik**](https://github.com/Jordan-18/reckomik.be) → Recommendation system using MCDM & CFB weighting.  
-- 💰 [**Donation Platform (Lazizwaf UNIDA)**]() → Online donations & zakat calculator.  
-- 🎓 [**Academic Data Tool (AKPAM UNIDA)**]() → Automated reporting system reducing manual input.  
+### 🌱  Currrently Learning
+- 🎯**Technical**:
+  - **React**
+  - **Typescript**
+  - **Tailwind**
+- 👨‍💻**Tools**:
+  - **Godot**
+  - **PixiJs**
+  - **Blender**
 
 ---
 
