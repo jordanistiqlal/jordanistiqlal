@@ -51,19 +51,23 @@
 ### 🌱  Currrently Learning
 <ul align="left">
   <li style="display:flex; align-items:center; gap:8px; margin-bottom:8px">
-    <img src="https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    <strong>React Native</strong>
-  </li>
-  <li style="display:flex; align-items:center; gap:8px; margin-bottom:8px">
     <img src="https://img.shields.io/badge/-000000?style=flat&logo=Next.js&logoColor=f7f7f7"/> 
     <strong>Next.js</strong>
-  </li>
-  <!-- <li style="display:flex; align-items:center; gap:8px; margin-bottom:8px">
-    <img src="https://img.shields.io/badge/-f7f7f7?style=flat&logo=javascript&logoColor=e02161"/>
-    <strong>PixiJs</strong>
   </li>
   <li style="display:flex; align-items:center; gap:8px; margin-bottom:8px">
     <img src="https://img.shields.io/badge/-f7f7f7?style=flat&logo=godot-engine&logoColor=4588b9"/>
     <strong>Godot</strong>
+  </li>
+  <!-- <li style="display:flex; align-items:center; gap:8px; margin-bottom:8px">
+    <img src="https://img.shields.io/badge/-059386?style=flat&logo=fastapi&logoColor=f7f7f7"/>
+    <strong>FastAPI</strong>
+  </li> -->
+  <!-- <li style="display:flex; align-items:center; gap:8px; margin-bottom:8px">
+    <img src="https://img.shields.io/badge/-f7f7f7?style=flat&logo=nestjs&logoColor=da224c"/>
+    <strong>NestJs</strong>
+  </li> -->
+  <!-- <li style="display:flex; align-items:center; gap:8px; margin-bottom:8px">
+    <img src="https://img.shields.io/badge/-000000?style=flat&logo=unity&logoColor=f7f7f7"/>
+    <strong>Unity</strong>
   </li> -->
 </ul>
